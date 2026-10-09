@@ -1,0 +1,8 @@
+{
+  "name": "Remix PresenzeLive - Registro Presenze \u0026 Report Corsi Online",
+  "description": "Sistema completo di rilevazione e documentazione presenze per 10 corsi online con autenticazione, reportistica automatica, dashboard studenti e notifiche email.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
